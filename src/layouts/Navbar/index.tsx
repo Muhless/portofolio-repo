@@ -18,10 +18,10 @@ function Navbar() {
                 <div className='mt-3'>
                     <ul className='flex text-center'>
                         <li className='mr-8'><Link href="#">Homepage</Link></li>
-                        <li className='mr-8'><Link href="/About">About Me</Link></li>
+                        <li className='mr-8'><Link href="/About">Tentang Saya</Link></li>
                         <li className='mr-8'><Link href="/Project">Project</Link></li>
                         <li className='mr-8'><Link href="/Address">Address</Link></li>
-                        <li className='mr-8'><Link href="/Contact">Contact</Link></li>
+                        <li className='mr-8'><Link href="/Contact">Kontak</Link></li>
                     </ul>
                 </div>
             </div>
