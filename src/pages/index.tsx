@@ -1,3 +1,4 @@
+import About from '@/layouts/About'
 import Footer from '@/layouts/Footer'
 import Hero from '@/layouts/Hero'
 import Navbar from '@/layouts/Navbar'
@@ -9,6 +10,7 @@ function Home() {
     <div>
       <Navbar />
       <Hero />
+      <About />
       <section>
         <Project />
       </section>

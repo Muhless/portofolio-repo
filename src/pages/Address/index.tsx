@@ -1,8 +1,9 @@
+import Navbar from '@/layouts/Navbar'
 import React from 'react'
 
 function Address() {
   return (
-    <div>Address</div>
+    <div><Navbar /></div>
   )
 }
 

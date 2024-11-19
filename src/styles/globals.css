@@ -17,6 +17,6 @@
 body {
   color: var(--foreground);
   background: var(--background);
-  font-family: "Edu AU VIC WA NT Pre", cursive;
+  font-family: "Poppins", sans-serif;
   font-optical-sizing: auto;
 }
